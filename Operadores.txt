@@ -1,5 +1,7 @@
 Operadores
 Lider: Oliver Gelvis
+
+Restar: 2-1= 1
 sumar 2+2=4
 
 
