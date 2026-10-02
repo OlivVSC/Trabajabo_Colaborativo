@@ -1,3 +1,7 @@
 Operadores
 Lider: Oliver Gelvis
 sumar 2+2=4
+
+
+
+Multiplicación: 5 x 5 = 25
