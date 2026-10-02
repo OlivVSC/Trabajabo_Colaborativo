@@ -3,6 +3,4 @@ Lider: Oliver Gelvis
 
 
 
-
-División: 10/2: 5
-
+Division: 10/2=5
