@@ -1,2 +1,4 @@
 Operadores
 Lider: Oliver Gelvis
+
+Restar: 2-1= 1
