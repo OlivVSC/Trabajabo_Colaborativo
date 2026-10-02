@@ -1,2 +1,6 @@
 Operadores
 Lider: Oliver Gelvis
+
+
+
+Multiplicación: 5 x 5 = 25
